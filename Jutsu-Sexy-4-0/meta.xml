@@ -1,0 +1,9 @@
+<meta>
+    <info author="mcnciolas208" name="jutsu-sexy" description="jutsu-sensual" version="1.0.0" type="script"/>  
+       
+        <script src="server.lua" type="server" />
+	<script src="client.lua" type="client"/>
+  	<file src="edoo.mp3" />
+	<file src="287.txd" />
+	<file src="287.dff" />
+</meta>
